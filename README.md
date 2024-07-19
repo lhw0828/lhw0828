@@ -1,33 +1,25 @@
-## Hey 👋, This is lhw0828
+### Hi, I'm lhw0828 👋
+---
 
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=ryyyc alt=ryyyc /> </p>
+#### I'm a Full-Stack Developer based in Chengdu, China.
 
-<a href="https://github.com/ryyyc">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ryyyc&show_icons=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/ryyyc">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryyyc&layout=compact" />
-</a>
+- 🏢 I'm currently working full-time with awesome peeps at **Teladoc Health**
+- ⚙️ I use daily: `.rb`, `.js`, `.erb`, `.slim`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`, `.sql`
+- 🌍 I support and volunteer with: **Code Nation, Built By Girls, AllStar Code**
+- 💅 Active community member of: **Out in Tech, Techqueria, Girls Who Code**
+- 🌱 Learning more about and studying: **Open Source, React, CS Algorithms**
+- 💬 Ping me about: **wed design**, **social media**, **diversity & inclusion**, **mentorship**, **Beyonce**
+- 📫 Reach me asap: <a href="https://twitter.com/millycodes/">Twitter</a> or Millycodes@gmail.com
+- 💜 Interests: huge Beyonce fan, cryptocurrency enthusiast, foodie, 🐶 Kiki
+- 😄 Passionate about accessibility and committed to a web that works for everyone
 
-Languages and Tools:
+#### Find me around the web 🌎:
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/millycodes/">LinkedIn</a>
+- 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/millyfeet">Spotify</a>
+- 🌐 Updating my personal website with examples of my work on <a href="https://millycodes.com">MillyCodes.com</a>
+- 🐦 Tweeting about Beyonce, memes and sharing tech tweets on <a href="https://twitter.com/millycodes/">Twitter</a>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 
+---
 
-<!--
-**Ryyyc/ryyyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [MillyCodes](https://github.com/MillyCodes)
